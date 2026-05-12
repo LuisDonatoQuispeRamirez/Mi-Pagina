@@ -23,7 +23,7 @@ body {
     color: var(--text);
 }
 
-/*  HEADER  */
+/* HEADER */
 
 .top-header {
     padding-top: 40px;
@@ -40,7 +40,7 @@ body {
     letter-spacing: 3px;
 }
 
-/*  NAVBAR  */
+/* NAVBAR */
 
 .custom-navbar {
     position: sticky;
@@ -61,7 +61,7 @@ body {
     color: var(--blue);
 }
 
-/*  HERO  */
+/* HERO */
 
 .carousel {
     border-radius: 25px;
@@ -75,7 +75,7 @@ body {
 
 .carousel-item img {
     width: 100%;
-    height: 100%;
+    height: 420px;
     object-fit: cover;
 }
 
@@ -93,7 +93,7 @@ body {
     font-weight: 700;
 }
 
-/*  SECCIONES  */
+/* SECCIONES */
 
 .section {
     padding: 90px 0;
@@ -120,7 +120,7 @@ body {
     border-radius: 20px;
 }
 
-/*  CARDS  */
+/* CARDS */
 
 .custom-card {
     background: white;
@@ -142,7 +142,7 @@ body {
     line-height: 1.9;
 }
 
-/*  FOTO  */
+/* FOTO */
 
 .placeholder-img {
     width: 100%;
